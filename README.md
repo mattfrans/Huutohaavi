@@ -1,4 +1,4 @@
-# Uusimaa Real Estate Project
+# HuutoHaavi
 
 This project collects, analyzes, and displays real estate data from the Uusimaa region in Finland.
 
